@@ -103,3 +103,107 @@ Talking about the cheetah – some features found in the cheetah are found in th
             •Parsimony: methodological principle which states that acceptable theories are hypothetically the most economical in assumptions.
         –Methodological materialism
             •All that is experimentally accessible in the real world is material or has a material origin
+
+
+
+
+CHAPTER 2 (September 16)
+
+... missed a whole bunch right here ...
+
+
+2.4 From Fixity of species to transformism
+
+2.4.2 Buffon (1707-1788)
+
+2.4.3 Lamarck (1774-1829)
+    Uses the environment as a factor of change (environmental determinisim)
+
+    2 principles (affects individuals):
+        principle of _________ usage and non-usage
+        principle of _________ inheritance of acquired characterisitics
+
+    ___spontaneous generation______ explains the presence of simple organisims
+
+    Gradual mechanisim, adpative and involves innate ability of organisims to become more complex
+
+    Theory not recieved well by his peers because it contradicted the religous views of the creation of life
+
+    Problem with lamarcks theory: ___acquired traits cannot be inherited___
+
+2.4.4 Cuvier (1769 - 1832)
+
+    French scientist interested in mammal fossils
+    
+    Established the science of palentology
+        The older the stratum, the more dissimilar its fossils are to current species
+        From one layer to the next, species appear and disappear
+
+    Theory of __correlation of parts__ (organs)
+
+    Cruvier believed in the fixity of species, extinction and catastrophisim (catastrophy on planet that wipes out species)
+    Progessive creationism (every time there was a catstrophy god created a better species, up to Humans)
+
+    [ talked about jaw bones, carnivoir and other types. Found it was a seal ]
+
+2.4.5 Hutton (1728 - 1797) and Lyell (1797 - 1875) (geologists)
+
+    Geological changes are the result of a slow, gradual and continuous process
+    Principle of ___uniformity__ (uniformitarianism): the laws of nature are not affected by the passage of time
+
+    Lyell is the first to establish geology as a scientific discipline
+
+    "the present is the key to the past"
+
+    EXAMPLE:
+        Hoodoo (tent rock): where a rock is on sand and there is vertical erosion. The rock holds the sand beneath it and sits ontop of a pillar or column of sand.
+
+
+
+CHAPTER 3 (September 16)
+CHARLES DARWIN (1809-1882) and Evolution
+
+(not going to ask us when he was born)
+
+3.1 Charles Darwin: Education and Family   
+    Stops his studies in medicine (UEdinburgh) and takes more serious interest in religon (CambridgeU)
+        prereq for pastor: bachelor of arts
+    Develops interest in nature, taxidermy, insect collecting, botany
+
+    1831 leaves oon beagle ship to do cartography of the coast of south america.
+    Darwin was invited as campanion of captain but quickly became the naturalist of the voyage.
+    
+    2 books that were impactful on Darwins trip:
+        william paley "theology, or evidences of the existence and attributes of the deity"
+            paley is the father of the ___theology of nature__
+                avocates intelligent describing
+                
+        charles lyell: "principles of geology"
+            Darwin left believing in the freat flood and in curviers catastrophism
+            When he returned 5 years later, he was in agreement with Lyell and Huttons principle of uniformity
+
+3.2 The Voyage of the beagle
+
+    the very distinct Fauna of __South America__ had a profund effect on Darwin:
+        - Why do fauna and flora of Africa, Europe, Australia and South America have few species in common?
+        - Why are animals and plants of temperate zones of South America resemble the species living in the tropical zones of South America but no the species in temperate Europe
+        - fossils ? slide 6
+
+    Why so much shell variability in tortoises in the Galapagos?
+    Why is fauna on Galapagos unique?
+
+    Birds: Why so much morphological variability in one group?
+    Birds: Why does each island in most cases have their own species (all same body, different face)
+        cactus eater
+        insect eater
+        send eater
+
+3.3 Evolution and Natural Selection
+    In 1837, we find in Darwins notes the first mention that species show resemblance to each other because they share a __common ancestor__ (not a common environment)
+        - rejects the fixity (no change) of species and accepts the concept of descent with modificaitons (evolution)
+        - very materialisitc view of life in contradiction with the religous dogma of the time
+        - rejects Lamarck's evolutionary mechanism (environmental determinism)
+        Then he begins the search for an evolutionary mechanism
+
+        All the finches of Galapagos stemmed from the common ancestor of the south american finch.
+        Saw this when applied to Darwins tree
