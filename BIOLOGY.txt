@@ -109,44 +109,110 @@ Talking about the cheetah – some features found in the cheetah are found in th
 
 CHAPTER 2 (September 16)
 
-... missed a whole bunch right here ...
+2.1 Transformation in Antiquity
+    2.1.1 Anaximander (610-546 BCE)
+
+        The first philospher to write his thoughts
+        - idea that animals are born in the sea and humans originated from fishes that attempted to invade mainland
+        - __Water__ is the central element of the universe
+
+    2.1.2 Empodocles (483-423)
+
+        All structures of the world are made of four elements
+            -earth, water, air, fire
+            -these elements are simple, eternal and unalterable
+            -two major forces interact constantly on these elements
+                Love (attraction or harmony)
+                Hate (repulsion or discord)
+
+    2.1.3 Democritus (460-360)
+
+        The most 'scientific' of the greek philiophers
+        Two realities: 
+            -Atoms
+            -Emptiness (space where atoms can be attatched together)
+        Matter: group of atoms in movement. An atom cannot be destroyed or created (atomic theory)
+
+    Conclusion
+        1. Acts of creation are not due to __gods__ but rather due to the innovative power of Matter
+        2. The origin of all things is not __theological__ (namely, with an ultimate goal), but is the result of chance or of an irrational need
+
+
+2.2 Classical Thinkers
+    2.1 Socrates (469-399) and Plato (427-347)
+    
+        Plato was a student of Socrates
+        More abstract questions were of concern and the contemplation of the soul.
+        Important questions are not materialisitc but linked to a search and an understanding of the concepts of beauty, kindness, justice and sanity.
+        Arguments about logical, ethical and political questions are more interesting than the search for truth.
+        The answers are not found in __nature__ but within the self.
+        Theories of ideal forms __essentialism__: the visible, imperfect and changing realm which surrounds us is a poor imitation of an ideal world.
+            The variation of forms is not important. Only the quest to define and understand the ideal form is important.
+            This philosphy will have a lasting impact on our perception of nature
+            Gods are the creative forces
+
+    2.2.2 Aristotle (384-322)
+
+        Does not believe in the innate aspect of the world of ideal forms
+        Important to describe the essence of living beings and this essence is observed in nature
+        Believes that species are static.
+        He is a __vitalist__ and percieves multiple levels of __souls__ with cumulative effects: vegetal (plants), animate (animals), rational (humanity)
+        Created __Scala Nature__: species are depicted in a static and unchanganble hierarchy
+
+    Plato:
+        There is a world of Ideas of Forms that is totally seperate from the material world. Every thing or living being that we observe with our senses is just a poor imitation of its perfect representation in the world of Forms.
+        __The world of forms is innate__
+
+    Aristotle:
+        There is no need to posulate the hypothetical existence of an innate world of ideas or forms. 
+        We find the essence of things by __carefully examining the world around us__
+
+    
+2.3 The impact of christianity (NEEDS TO BE DONE)
+
+    With the decline of the Roman Empire, __christianity__ becomes the main ideaology in the western world
+    God becomes the measure of all things, and the Christtian bible, the word of the day.
+    The concept of __Scala Naturae__ becomes purely matephysical, preclaiming the perfection of the creator.
+
 
 
 2.4 From Fixity of species to transformism
 
-2.4.2 Buffon (1707-1788)
+    2.4.1 Linnaeus (1707-1778)
 
-2.4.3 Lamarck (1774-1829)
-    Uses the environment as a factor of change (environmental determinisim)
+    2.4.2 Buffon (1707-1788)
 
-    2 principles (affects individuals):
-        principle of _________ usage and non-usage
-        principle of _________ inheritance of acquired characterisitics
+    2.4.3 Lamarck (1774-1829)
+        Uses the environment as a factor of change (environmental determinisim)
 
-    ___spontaneous generation______ explains the presence of simple organisims
+        2 principles (affects individuals):
+            principle of _________ usage and non-usage
+            principle of _________ inheritance of acquired characterisitics
 
-    Gradual mechanisim, adpative and involves innate ability of organisims to become more complex
+        ___spontaneous generation______ explains the presence of simple organisims
 
-    Theory not recieved well by his peers because it contradicted the religous views of the creation of life
+        Gradual mechanisim, adpative and involves innate ability of organisims to become more complex
 
-    Problem with lamarcks theory: ___acquired traits cannot be inherited___
+        Theory not recieved well by his peers because it contradicted the religous views of the creation of life
 
-2.4.4 Cuvier (1769 - 1832)
+        Problem with lamarcks theory: ___acquired traits cannot be inherited___
 
-    French scientist interested in mammal fossils
-    
-    Established the science of palentology
-        The older the stratum, the more dissimilar its fossils are to current species
-        From one layer to the next, species appear and disappear
+    2.4.4 Cuvier (1769 - 1832)
 
-    Theory of __correlation of parts__ (organs)
+        French scientist interested in mammal fossils
+        
+        Established the science of palentology
+            The older the stratum, the more dissimilar its fossils are to current species
+            From one layer to the next, species appear and disappear
 
-    Cruvier believed in the fixity of species, extinction and catastrophisim (catastrophy on planet that wipes out species)
-    Progessive creationism (every time there was a catstrophy god created a better species, up to Humans)
+        Theory of __correlation of parts__ (organs)
 
-    [ talked about jaw bones, carnivoir and other types. Found it was a seal ]
+        Cruvier believed in the fixity of species, extinction and catastrophisim (catastrophy on planet that wipes out species)
+        Progessive creationism (every time there was a catstrophy god created a better species, up to Humans)
 
-2.4.5 Hutton (1728 - 1797) and Lyell (1797 - 1875) (geologists)
+        [ talked about jaw bones, carnivoir and other types. Found it was a seal ]
+
+    2.4.5 Hutton (1728 - 1797) and Lyell (1797 - 1875) (geologists)
 
     Geological changes are the result of a slow, gradual and continuous process
     Principle of ___uniformity__ (uniformitarianism): the laws of nature are not affected by the passage of time
