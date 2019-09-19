@@ -205,5 +205,84 @@ CHARLES DARWIN (1809-1882) and Evolution
         - rejects Lamarck's evolutionary mechanism (environmental determinism)
         Then he begins the search for an evolutionary mechanism
 
-        All the finches of Galapagos stemmed from the common ancestor of the south american finch.
-        Saw this when applied to Darwins tree
+        All the finches of Galapagos stemmed from the common ancestor of the south american finch. All were very similar by looks
+        Saw this when applied to Darwins tree (all had common ancetor)
+
+    Had trouble pinpointed common ancestors to some unique animals such as elephants.
+        To help solve this he looked to fossils
+        99 % of species that have lived on earth are extinct
+
+    In book 'An essay on the principle of population' which Darwin read
+        States that every human population has a tendency to increase geometrically.
+        Whereas the available resources to feed these populations increase arithmetically.
+
+    Darwins first observation:
+        All species can product more offspring than their environment can sustain and many of these offspring fail to survive and reproduce.
+    Darwins second observation:
+        Members of a population often vary in thei inherited traits
+
+    Two inferences in conclusion:
+        1. Indiviudals whose __inherited traits__ (such as color in fish example) give them a higher probability of surviving and reproducing in a given environment tend to leave more offspring than other individuals
+        2. From generation to generation, this unequal capacity to survive and to reproduce (__differential reproductive seccess__) results in an accumulation of favourable traits in a population
+
+        This is __natural selection__. It enables the emergence of adaptions.
+
+    Alfred Russel Wallace sent a letter (1858) to Darwin forcing him to release his findings since Wallace had found the same thing in the fauna of Indonesia.
+        __23 years__ after the voyage of the beagle darwin released his views on the evolution of species
+
+    1858, Wallace and Darwin presented a summary on their ideas of natural selection__
+    1859 Darwin publishes the first version of his book "On the origin of species". Instant bestseller and created great controversy.
+
+    Important notions linked with natural selection:
+        -Individuals do not evolve, __ populations__ evolve
+        -Only heriditary traits with variability can evolve
+        -traits that greater survival rate and more reproduction are 'fitter'
+        -If a trait is well adapted to its environment, it congers a higher relative 'fitness' (reproductive success) to its bearer.
+        -environemtal factors vary so traits can increase or loose fitness in its environment (fish example)
+        -traits in populations may change and may modify the species
+
+    For Darwin, this mechanism is valid because:
+        -respects principle of uniformity of Lyell and Hudson.
+        - results are visible in nature
+        - mechanism can be verified on current populations
+        - materialisitc concept (no need for divine intervention)
+            - mechanism is not __random__. Better adapted populations (fitter) with become more abundant (__differential reproductive seccess__) 
+            - Not a quest for perfection (evolution is not a direct process)
+
+    Artificial selection is fixed because the goal,fixed well in advance precedes the causes. End result can be obtained in a few generations (Ex. Dogs)
+    Natural selection is not finalized. It can take a long time for changed to occur (geological time scale).
+
+    EX: Peppered moth example (similar to fish, showing natural selection based on traits)
+    
+    EX: Climate and the medium ground finch
+        Population went from 1200 to 80
+        Selection favoured the finch with bigger and stronger beaks to break the seeds in the drought
+        This evolution happened over one season. (very short)
+
+    EX: Humans (Adaption to altitude)
+        prof: lives 500m above sea level.
+        guide: population lives 3500m above sea level for 3000 years.
+        guide is adapted to environment at altitude.
+
+        2000m altitude partial pressure of O2 is insufficient for normal saturation of hemoglobin
+        Physiological response (accumulation)
+
+        Many regions of high altitude were individually colonized by humans
+        On Qinghai plateau human __adaption__ differs from Andes
+
+        Andes: Higher surface in lungs and each molecule has a greater oxygen capacity
+        QingHai: incraesed __blood flow__
+            Origin of adaptations: __Densiovan gene__ EPAS1
+
+    
+    In the three cases: moth, finch, humans, the __heriditary traits__ that give a __reproductive advantage __ to infividuals in a population will be favoured.
+    Thus from generation to generation, there will be a higher percent of population carrying the adaptation. This is __natural selection__
+    It is Darwin's decent of modification. It is evolution.
+
+
+3.4 Proof of Homology
+
+    Descent with modifications (theory of evolution) explains the resembelance between certain traits, even if the functions are different.
+
+    
+
