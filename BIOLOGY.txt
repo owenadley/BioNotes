@@ -353,4 +353,70 @@ CHARLES DARWIN (1809-1882) and Evolution
     homologous structures
 
 
+    Whale skeleton example:
+        vertical structure: anatomic structure that that has lost almost all of its initial functionalal (pelvic bone)
+
+        Vesitigial structures (things that have evolved from ancestor but pose no advantage or use anymore)
+            1) whale example
+            2) Nictating membrane or third eyelid
+            3) appendix - dont need as digestion pouch
+            4) Goose bumbs and hair - used by animals with thick coats of hair. When it stands up, creates a layer of hair at tip of coats
+
+            5) Hiccups: A heritage from fish and amphibians
+                Lungs and diaphram shifted down in humans from where it was originaly close to mouth/head in fish. Phrenic nerve gets extended down to diaphram. Pinching this causes Hiccups
+
+    Proof of evolution
+        Discovery of a fossil in the wrong plcace in the geological archives would be sufficient to refute our concept of evolution
+
+
+
+CHAPTER 4
+
+4.1 Transmission of Traits (inheritance): Pre-Mendelian Perspectives
+    4.1.1 Preformism and the Theory of Blending Inheritance
+
+        Developments of individuals: __ theory until the 19th century. Accepted theory today __
+
+        Theory of binding inheritance: universally accepted theory until the end of the 19th century.
+            Both parents contribute __equally__ into the genetic makup of offspring
+            For each trait, child would show intermediate value between the traits of its parents
+
+    4.1.2 Darwin’s Pangenesis
+
+        Theory of gemmules( __ ) produced by each part of the body
+        When an organ is used, it grows, and the more gemmules it contains. Contrary is also possible
+        Gemmules would be transfered through the bloodstream from all parts of the body and assembled in the gamates where they are formed.
+        Gemmeles would be the particales associated with Transmission of heridetary
+        refuted by Francis Galton (darwins cousin) by blood swap test with rabbits.
+
+    4.1.3 August Weismann’s Theory (1834-1914)
+
+        Weismann proposed only the sex cells were responsible for the hereditary, everything else dissaperes with death of body
+        Living beings are divided into two parts, with two distinct outcomes: __germlines__ and the __soma__
+        hereditary is simply the continuation of the __germlines__
+        Natural selection is the only thing that can ventually modify the germline, but only within a population.
+
+        A chicken is the method by which an egg makes another egg
+
+        Nemo example: latern fish (female). Male tries to find female, attatch (fuse) to the female and female will be responsible for it.
+        germline and soma are independent. Soma here, body of male reduced to just sperm on the female.
+
+        ____
+
+
+4.2 Mandelien Inheritance  
+
+    Founder of genetics
+    Austrian monk
+    Formulated his laws on the creation of hybrids (laws of heredity) in 1866
+    His work was only recongnized in 1900
+
+
+    Mandel talks about hereditary facotrs. (genes were still unknown at that time)
+    Used peas are expiamental material
+
+    Varitaion of genetic traits is explained by the different shpaes genes can have.
+
+    All organisms inherit two copies of genes (one from father, one from mother)
+        Each copy of allies
 
